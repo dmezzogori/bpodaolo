@@ -13,3 +13,6 @@ wheels/
 pptx/
 
 .DS_Store
+
+# Jupyter notebooks
+.ipynb_checkpoints
